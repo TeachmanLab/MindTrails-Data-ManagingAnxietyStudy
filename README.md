@@ -127,8 +127,8 @@ You can see the major steps for cleaning the data in the following diagram:
 
   
 ## List of project
-1. Main Outcomes
-2. Credibility
+1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
+2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nichola
 3. Dose-Response Relationships
 
 
