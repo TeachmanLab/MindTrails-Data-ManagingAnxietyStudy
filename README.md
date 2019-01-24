@@ -12,7 +12,7 @@ Here is the main steps for cleaning the data:
 - [x] Exclude participant that didn't start training. _TaskLog_ entry for those has a _session=PRE_.
 
 You can see the major steps for cleaning the data in the following diagram:
-
+![Consort Diagram](https://github.com/TeachmanLab/R34-Data/blob/master/Consort%20Diagram.png)
 
 ### Managing Anxiety questionnaire in each session
 
