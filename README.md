@@ -2,11 +2,11 @@
 This R34-funded study targets interpretation bias in anxious adults. For more information about the _Managing Anxiety_ study, see [the MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety).
 
 You can see the following information in this document:
-1. Goal of this repository(#goal-of-this-repository)
-2. Main data cleaning steps(#main-data-cleaning)
-3. Table in each session of study(#managing-anxiety-questionnaire-in-each-session)
-4. List of projects(#list-of-project)
-5. Contact(#contact)
+1. [Goal of this repository](#goal-of-this-repository)
+2. [Main data cleaning steps](#main-data-cleaning)
+3. [Table in each session of study](#managing-anxiety-questionnaire-in-each-session)
+4. [List of projects](#list-of-project)
+5. [Contact](#contact)
 
 
 ### Goal of this repository
