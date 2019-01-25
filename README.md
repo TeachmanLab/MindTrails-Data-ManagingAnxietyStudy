@@ -17,10 +17,7 @@ You can see the following information in this document:
 Here is the main steps for cleaning the data:
 - [x] Exclude participants with ID between **20:420**. _They are spam_. 
 - [x] Exclude _Admin_ users.
-- [x] Exclude participant that didn't start training. _TaskLog_ entry for those has a _session=PRE_.
 
-You can see the major steps for cleaning the data in the following diagram:
-![Consort Diagram](https://github.com/TeachmanLab/R34-Data/blob/master/Consort%20Diagram.png)
 
 ### Managing Anxiety questionnaire in each session
 
@@ -137,7 +134,7 @@ You can see the major steps for cleaning the data in the following diagram:
 ## List of project
 1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
 2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nichola
-3. Dose-Response Relationships
+3. Dose-Response Relationships[](), Leader: Jeremy
 
 
 
