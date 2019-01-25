@@ -19,6 +19,8 @@ Here is the main steps for cleaning the data:
 - [x] Exclude _Admin_ users.
 - [x] Prefer not to answer coding (list all tables with different coding)
 
+**NOTE:** Please also review the data cleaning issues that other porjects found in this dataset!!!!
+
 
 ### Managing Anxiety questionnaire in each session
 
