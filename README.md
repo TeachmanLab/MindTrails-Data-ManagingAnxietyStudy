@@ -17,6 +17,7 @@ You can see the following information in this document:
 Here is the main steps for cleaning the data:
 - [x] Exclude participants with ID between **20:420**. _They are spam_. 
 - [x] Exclude _Admin_ users.
+- [x] Prefer not to answer coding (list all tables with different coding)
 
 
 ### Managing Anxiety questionnaire in each session
