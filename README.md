@@ -27,47 +27,47 @@ Here is the main steps for cleaning the data:
 - **Eligible**
   - Recent Anxiety symptoms. _DASS-AS_ Table
 - **PRE**
-  - Consent to participant. _Credibility_ Table
-  - Demographic. _demographic_ Table
-  - Mental Health History. _MH_ Table
-  - Satisfaction. _QOL_ Table
-  - Completing short stories. _Recongition Rating_ Table
-  - Completing short stories-continued. _RR_ Table
-  - Why things happen. _BBSIQ_ Table
-  - Mood assessment. _DASS-DS_Table
-  - Assessment. _DD_ Table
-  - Anxiety Review. _OA_ Table
-  - Personal anxiety triggers. _Anxiety trigger_ Table  
+  - _Credibility_ Table: Consent to participant
+  - _demographic_ Table: Demographic 
+  - _MH_ Table: Mental Health History
+  - _QOL_ Table: Satisfaction
+  - _Recongition Rating_ Table: Completing short stories 
+  - _RR_ Table: Completing short stories-continued
+  - _BBSIQ_ Table: Why things happen. 
+  - _DASS-DS_Table: Mood assessment. 
+  - _DD_ Table: Assessment. 
+  - _OA_ Table: Anxiety Review. 
+  - _Anxiety trigger_ Table: Personal anxiety triggers. 
 - **SESSION 1**
-  - How anxious you feel. _SUDS_ Table
-  - How your imagination. _Imaginary prime_ Table
-  - Impact question. _Impact_ Table
-  - Training stories. _first session sentence_ Table
-  - How anxious you feel. _SUDS_ Table
-  - Follow up. _CC_ Table
-  - Anxiety Review. _OA_ Table
-  - Return Intention. _Return Intention_ Table
+  - _SUDS_ Table: How anxious you feel. 
+  - _Imaginary prime_ Table: How your imagination. 
+  - _Impact_ Table: Impact question. 
+  - _first session sentence_ Table: Training stories. 
+  - _SUDS_ Table: How anxious you feel. 
+  - _CC_ Table: Follow up. 
+  - _OA_ Table: Anxiety Review. 
+  - _Return Intention_ Table: Return Intention. 
 - **SESSION 2**
-  - Use your imagination. _Imaginary prime_ Table
-  - Impact question. _Impact_ Table
-  - Training stories. _second session sentence_ Table
-  - Anxiety Review. _OA_ Table
-  - Return Intention. _Return Intention_ Table
+  - _Imaginary prime_ Table: Use your imagination. 
+  - _Impact_ Table: Impact question. 
+  - _second session sentence_ Table: Training stories. 
+  - _OA_ Table: Anxiety Review. 
+  - _Return Intention_ Table: Return Intention. 
 - **SESSION 3**
-  - How anxious you feel. _SUDS_ Table
-  - Use your imagination. _Imaginary prime_ Table
-  - Impact question. _Impact_ Table
-  - Training stories. _third session sentence_ Table
-  - How anxious you feel. _SUDS_ Table
-  - Follow up. _CC_ Table
-  - Completing short stories. _Recongition Rating_ Table
-  - Completing short stories-continued. _RR_ Table
-  - Why things happen. _BBSIQ_ Table
-  - How satisfied you feel. _QOL_ Table
-  - Mood assessment. _DASS-DS_Table
-  - Assessment. _DD-FU_Table
-  - Anxiety Review. _OA_ Table
-  - Return Intention. _Return Intention_ Table
+  - _SUDS_ Table: How anxious you feel. 
+  - _Imaginary prime_ Table: Use your imagination. 
+  - _Impact_ Table: Impact question. 
+  - _third session sentence_ Table: Training stories. 
+  - _SUDS_ Table: How anxious you feel. 
+  - _CC_ Table: Follow up. 
+  - _Recongition Rating_ Table: Completing short stories. 
+  - _RR_ Table: Completing short stories-continued. 
+  - _BBSIQ_ Table: Why things happen. 
+  - _QOL_ Table: How satisfied you feel. 
+  - _DASS-DS_Table: Mood assessment. 
+  - _DD-FU_Table: Assessment. 
+  - _OA_ Table: Anxiety Review. 
+  - _Return Intention_ Table: Return Intention. 
 - **SESSION 4**
   - Use your imagination. _Imaginary prime_ Table
   - Impact question. _Impact_ Table
