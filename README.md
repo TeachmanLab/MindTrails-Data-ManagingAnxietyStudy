@@ -4,7 +4,7 @@ This R34-funded study targets interpretation bias in anxious adults. For more in
 You can see the following information in this document:
 1. [Goal of this repository](#goal-of-this-repository)
 2. [Main data cleaning steps](#main-data-cleaning)
-3. [Table in each session of study](#managing-anxiety-questionnaire-in-each-session)
+3. [Tables in each session of the study](#managing-anxiety-questionnaire-in-each-session)
 4. [List of projects](#list-of-project)
 5. [Contact](#contact)
 
@@ -14,12 +14,25 @@ You can see the following information in this document:
 - Each data analysis project has its own folder that contains the code specific to that project.
 
 ## Main Data cleaning
-Here is the main steps for cleaning the data:
-- [x] Exclude participants with ID between **20:420**. _They are spam_. 
-- [x] Exclude _Admin_ users.
-- [x] Prefer not to answer coding (list all tables with different coding)
-
-**NOTE:** Please also review the data cleaning issues that other porjects found in this dataset!!!!
+## Proposed Main steps of the data cleaning
+- [X] Name convention of ID column (participantID)
+- [X] Actual IDs
+- [X] Remove test and admin accounts
+- [X] Check the values of ID
+    - Take care of jump in the values of IDs
+- [X] labeled IDs based on the timeline of the study (e.g., soft-launch, actual launch)
+- [X] Remove duplicate values
+    - Delete the same values
+    - Keep the very last entry
+- [X] Check the missing values
+    - Blank, n/a, na, NA
+- [X] Check the prefer answer value (e.g., 555, -1)
+- [X] Check the value of each measurement
+    - Visualize the value range of each column if we have outlier (e.g. R34 has a value that shouldn’t be there)
+      - As an example, in the return intention table, we have a negative value without any explanation
+      - Solution: fill them out with the null value
+- [X] Time conversion based on participants’ timezone
+- [X] Column shifting (e.g., sometimes the entry’s value shift in some tables)
 
 
 ### Managing Anxiety questionnaire in each session
@@ -139,9 +152,6 @@ Here is the main steps for cleaning the data:
 2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nichola
 3. Dose-Response Relationships[](), Leader: Jeremy
 
-
-
-For the data issues history and suggested cleaning procedure, see https://docs.google.com/document/d/1Rh6nzQRT6rce37m8mJGfyAw_aekixrT7t0h3uzEWxpY/edit?usp=sharing
 
 ## Contact
 If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu or Claudia Calicho-Mamani at cpc4tz@virginia.edu. Thanks!
