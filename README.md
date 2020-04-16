@@ -8,7 +8,7 @@ You can see the following information in this document:
 4. [Contact](#contact)
 
 
-### Goal of this repository
+## Goal of this repository
 - We try to have a one document to address all the projects related to _R34_ study and major data cleaning issues.
 - Each data analysis project has its own folder that contains the code specific to that project.
 
