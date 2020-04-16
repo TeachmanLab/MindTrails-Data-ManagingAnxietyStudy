@@ -13,7 +13,7 @@ You can see the following information in this document:
 - Each data analysis project has its own folder that contains the code specific to that project.
 
 ## Main Data cleaning
-- Check [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder for the detailed data-cleaning process
+- Check the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder for the detailed data-cleaning process
   
 ## List of project
 1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
