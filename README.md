@@ -1,4 +1,5 @@
-# Managing Anxiety - R34
+# MindTrails-Data-ManagingAnxietyStudy
+
 This R34-funded study targets interpretation bias in anxious adults. For more information about the _Managing Anxiety_ study, see [the MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety).
 
 You can see the following information in this document:
