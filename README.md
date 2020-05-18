@@ -10,7 +10,7 @@ Table of Contents
 5. [Contact](#contact)
 
 ## Previous Names
-- Until 5/18/2020, this repository was named R34-Data.
+- Until 5/18/2020, this repository was named "R34-Data".
 
 ## Goal
 - We try to have a one document to address all the projects related to _R34_ study and major data cleaning issues.
