@@ -1,4 +1,4 @@
-# MindTrails-Data-ManagingAnxietyStudy
+# MT-Data-ManagingAnxietyStudy
 
 This R34-funded study targets interpretation bias in anxious adults. For more information about the _Managing Anxiety_ study, see [the MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety).
 
@@ -8,6 +8,8 @@ You can see the following information in this document:
 3. [List of projects](#list-of-project)
 4. [Contact](#contact)
 
+## Previous Names
+- Until 5/18/2020, this repository was named R34-Data.
 
 ## Goal of this repository
 - We try to have a one document to address all the projects related to _R34_ study and major data cleaning issues.
@@ -20,7 +22,6 @@ You can see the following information in this document:
 1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
 2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nichola
 3. Dose-Response Relationships[](), Leader: Jeremy
-
 
 ## Contact
 If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu or Claudia Calicho-Mamani at cpc4tz@virginia.edu. Thanks!
