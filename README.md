@@ -20,9 +20,8 @@ Table of Contents
 - Check the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder for the detailed data-cleaning process
   
 ## List of Projects
-1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
-2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nichola
-3. Dose-Response Relationships[](), Leader: Jeremy
+1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie Ji
+2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nicola Hohensee
 
 ## Contact
-If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu or Claudia Calicho-Mamani at cpc4tz@virginia.edu. Thanks!
+If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu. Thanks!
