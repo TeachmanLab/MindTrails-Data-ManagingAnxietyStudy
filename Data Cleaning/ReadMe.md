@@ -1,6 +1,6 @@
 # Data Cleaning
 
-Note: The data cleaning scripts in this folder are out of date due to file loss.
+**Note: The data cleaning scripts in this folder are out of date due to file loss.**
 
 Table of Contents
 1. [Main Data Cleaning Steps](#main-data-cleaning-steps)
