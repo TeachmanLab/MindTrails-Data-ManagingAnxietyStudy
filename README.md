@@ -19,8 +19,8 @@ To conduct centralized data cleaning for the study and list projects that analyz
 See the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder.
   
 ## List of Projects
-1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie Ji
-2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nicola Hohensee
+1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes) (Leader: Julie Ji)
+2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility) (Leader: Nicola Hohensee)
 
 ## Contact
 If you would like to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu. Thanks!
