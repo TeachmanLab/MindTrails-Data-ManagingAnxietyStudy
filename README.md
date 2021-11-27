@@ -2,7 +2,7 @@
 
 This repository is the knowledge base for the MindTrails Managing Anxiety Study (R34) dataset. For more information about the Managing Anxiety study, see the [Managing Anxiety page](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety) of the [MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety).
 
-Table of Contents
+**Table of Contents**
 1. [Previous Names](#previous-names)
 2. [Goal](#goal)
 3. [Data Cleaning](#data-cleaning)
