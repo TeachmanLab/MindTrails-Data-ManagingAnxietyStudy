@@ -1,11 +1,15 @@
-# Data Cleaning scripts
+# Data Cleaning
 
-You can see the following information in this document:
-1. [Main data cleaning steps](#main-data-cleaning)
-2. [Tables in each session of the study](#managing-anxiety-questionnaire-in-each-session)
+**Note: The data cleaning scripts in this folder are out of date due to file loss.**
 
+Table of Contents
+1. [Main Data Cleaning Steps](#main-data-cleaning-steps)
+2. [Tables at Each Time Point](#tables-at-each-time-point)
 
-## Main Data cleaning
+## Main Data Cleaning Steps
+
+**TODO: Sonia Baee to clarify which cleaning script(s) do which steps below.**
+
 Run this script to have a clean dataset which takes care of following steps:
 
 - [X] Name convention of ID column (participantID)
@@ -27,11 +31,9 @@ Run this script to have a clean dataset which takes care of following steps:
 - [X] Time conversion based on participants’ timezone
 - [X] Column shifting (e.g., sometimes the entry’s value shift in some tables)
 
+## Tables at Each Time Point
 
-
-### Managing Anxiety questionnaire in each session
-
-- **Eligible**
+- **Eligibility**
   - Recent Anxiety symptoms. _DASS-AS_ Table
 - **PRE**
   - _Credibility_ Table: Consent to participant
