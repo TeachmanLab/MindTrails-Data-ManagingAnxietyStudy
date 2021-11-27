@@ -6,7 +6,7 @@ Table of Contents
 1. [Main Data Cleaning Steps](#main-data-cleaning-steps)
 2. [Tables at Each Time Point](#tables-at-each-time-point)
 
-## Main Data Cleaning
+## Main Data Cleaning Steps
 
 Run this script to have a clean dataset which takes care of following steps:
 
