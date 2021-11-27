@@ -10,14 +10,13 @@ This repository is the knowledge base for the MindTrails Managing Anxiety Study 
 5. [Contact](#contact)
 
 ## Previous Names
-- Until 5/18/2020, this repository was named "R34-Data".
+Until 5/18/2020, this repository was named "R34-Data".
 
 ## Goal
-- To conduct centralized data cleaning for the study and list projects that analyze the study's data.
-- Each data analysis project has its own folder that contains the code specific to that project.
+To conduct centralized data cleaning for the study and list projects that analyze the study's data. Each data analysis project has its own folder that contains the code specific to that project.
 
 ## Data Cleaning
-- See the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder.
+See the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder.
   
 ## List of Projects
 1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie Ji
