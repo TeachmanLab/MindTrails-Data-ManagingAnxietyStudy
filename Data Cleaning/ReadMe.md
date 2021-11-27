@@ -8,6 +8,9 @@ Table of Contents
 
 ## Main Data Cleaning Steps
 
+**TODO: Sonia Baee to clarify which cleaning script(s) do which steps below.
+**
+
 Run this script to have a clean dataset which takes care of following steps:
 
 - [X] Name convention of ID column (participantID)
