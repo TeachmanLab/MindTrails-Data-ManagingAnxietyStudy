@@ -1,7 +1,5 @@
 # MT-Data-ManagingAnxietyStudy
 
-![Image](LogoManagingAnxiety.png)
-
 This repository is the knowledge base for the MindTrails Managing Anxiety Study (R34) dataset. For more information about the Managing Anxiety study, see the [Managing Anxiety page](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety) of the [MindTrails wiki](https://sites.google.com/a/virginia.edu/mindtrails-wiki/studies/managinganxiety).
 
 Table of Contents
@@ -27,4 +25,4 @@ Table of Contents
 3. Dose-Response Relationships[](), Leader: Jeremy
 
 ## Contact
-If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu or Claudia Calicho-Mamani at cpc4tz@virginia.edu. Thanks!
+If you are a researcher who wants to contribute to this project, please contact Bethany Teachman at bteachman@virginia.edu. Thanks!
