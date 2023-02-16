@@ -31,6 +31,11 @@ Table of Contents
 Raw and centrally cleaned data of the MindTrails Managing Anxiety Study (R34) are stored in the [MindTrails Managing Anxiety Study](https://osf.io/pvd67/) project on the Open Science Framework (OSF). The project has two components, with different permissions: a Private Component and a Public Component.
 
 ### Private Component
+The [private component](https://osf.io/5sn2x/) contains full set of 20 raw data tables dumped from () on February 2nd, 2019. Researchers can request access to files on this component by contacting the study team (studyteam@mindtrails.org).
+
+### Public Component
+The [Public Component](https://osf.io/2x3jq/) contains a partial set of raw data tables and redacted tables.
+
 
 ## Contact
 If you are a researcher who wants to contribute to this project, please contact Henry Behan at hb7zz@virginia.edu or Claudia Calicho-Mamani at cpc4tz@virginia.edu. Thanks!
