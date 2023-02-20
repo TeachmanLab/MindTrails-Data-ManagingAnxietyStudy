@@ -13,7 +13,7 @@ Table of Contents
 - Until 5/18/2020, this repository was named "R34-Data".
 
 ## Goal
-- This repository contains information for centraliezd data cleaning and projects related to Managing Anxiety study.
+- This repository contains information for centralized data cleaning and projects related to Managing Anxiety study.
 - Each data analysis project has its own folder that contains the code specific to that project.
 
 ## Data Cleaning
