@@ -20,8 +20,8 @@ Table of Contents
 - Check the [Data Cleaning](https://github.com/TeachmanLab/R34-Data/tree/master/Data%20Cleaning) folder for data cleaning scripts.
   
 ## List of Projects
-1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes), Leader: Julie
-2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility), Leader: Nicola
+1. [Main Outcomes](https://github.com/TeachmanLab/R34-Data/tree/master/Main%20Outcomes) (Leader: Julie Ji)
+2. [Credibility](https://github.com/TeachmanLab/R34-Data/tree/master/Credibility) (Leader: Nicola Hohensee)
 
 ## Contact
 If you are a researcher who wants to contribute to this project, please contact Bethany Teachman at bteachman@virginia.edu. Thanks!
